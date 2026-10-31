@@ -42,8 +42,6 @@ The dataset contains 500 synthetic student records.
 8. Build an interactive Streamlit application
 9. Deploy the application using Streamlit Community Cloud
 
-## 🤖 Machine Learning Model
-**Algorithm:** Linear Regression
 
 **Model Evaluation:**
 
