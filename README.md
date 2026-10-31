@@ -46,9 +46,23 @@ The dataset contains 500 synthetic student records.
 **Algorithm:** Linear Regression
 
 **Model Evaluation:**
-- MAE: Add actual result
-- RMSE: Add actual result
-- R² Score: Add actual result
+
+## 🤖 Machine Learning Model
+
+**Algorithm:** Linear Regression
+
+### Model Evaluation Results
+
+| Metric | Score |
+|---|---|
+| Mean Absolute Error (MAE) | 3.65 |
+| Root Mean Squared Error (RMSE) | 4.91 |
+| R² Score | 0.907 |
+
+The model explains approximately 90.7% of the variance in final marks on the synthetic test dataset.
+
+**Note:** These results are based on synthetic data and do not establish real-world predictive accuracy.
+  
 
 ## 🎯 Example Prediction
 
